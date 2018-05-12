@@ -1,0 +1,38 @@
+_repo: Muistoja-lapsen-ja-hopeahapsen-3Kuvauksia_16483
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Sarlin, Knut
+    birthdate: 1882
+    deathdate: 1923
+    gutenberg_agent_id: '6742'
+    url: http://www.gutenberg.org/2009/agents/6742
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ramsay, Anders
+    alias: Ramsay, Anders Gustaf
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '6741'
+    url: http://www.gutenberg.org/2009/agents/6741
+    wikipedia: http://fi.wikipedia.org/wiki/Anders_Gustaf_Ramsay
+description: ''
+gutenberg_issued: '2005-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16483'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Ramsay, Anders, 1832-1910'
+- !lcsh 'Finland -- Biography'
+title: 'Muistoja lapsen ja hopeahapsen 3
+
+  Kuvauksia'
+url: http://www.gutenberg.org/ebooks/16483
